@@ -26,8 +26,3 @@ cd personal-portfolio
 open index.html
 ```
 
-## Contact
-
-- GitHub: [Kevin-Hennet](https://github.com/Kevin-Hennet)
-- LinkedIn: [kevin-hennet](https://www.linkedin.com/in/kevin-hennet-b1b33829b/)
-- Email: kevinhennet2007@gmail.com
