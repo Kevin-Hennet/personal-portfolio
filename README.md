@@ -4,6 +4,7 @@ Personal portfolio website showcasing my projects and background as a CS student
 
 🔗 **Live site:** https://kevin-hennet.github.io/personal-portfolio/
 
+![website](assets/website.png)
 ## Tech Stack
 
 - HTML, CSS, JavaScript (vanilla)
